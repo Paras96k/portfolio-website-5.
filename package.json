@@ -1,0 +1,27 @@
+{
+  "name": "personal-portfolio-paras",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Modern responsive personal portfolio website for Paras Mansing Thorat - Final Year Computer Engineering Student",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "vite",
+    "responsive",
+    "dark-theme",
+    "computer-engineering",
+    "jenkins",
+    "ci-cd"
+  ],
+  "author": "Paras Mansing Thorat",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
